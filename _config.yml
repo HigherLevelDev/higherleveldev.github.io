@@ -38,6 +38,36 @@ plugins:
 # GitHub Pages settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
 
+# Prologue theme settings
+collections: [sections]
+
+# The following settings are NECESSARY for the Prologue theme to function properly.
+# Please add this part to your _config.yml file.
+avatar: assets/images/avatar.jpg
+# You'll want to customize url and baseurl for your own site:
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+# If you're hosting on GitHub Pages, baseurl should be set to "/" or "" (empty string)
+
+# Optional settings
+# You can use this to add a subtitle to your site
+# subtitle: "A responsive Jekyll theme"
+# You can use this to make a list of links in the nav bar
+nav:
+  - {title: "Home", url: "/"}
+  - {title: "About", url: "/about/"}
+
+# You might want to keep some of the defaults below:
+# author is used in a few places, especially for the author meta tag
+author: Your Name
+# add your Google Analytics ID here if you have one and want to use it
+google_analytics:
+# Used by jekyll-seo-tag
+social:
+  name: Your Name
+  links:
+    - https://github.com/higherleveldev
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
