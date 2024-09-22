@@ -1,0 +1,1 @@
+Do not use a .github workflow. Rely on the built in github pages build/deploy.
