@@ -1,0 +1,9 @@
+from github pages build: 
+Run helaili/jekyll-action@v2
+/usr/bin/docker run --name e086faae8120779506431db79fc5590c2a3cba_97fb63 --label e086fa --workdir /github/workspace --rm -e "INPUT_TOKEN" -e "INPUT_JEKYLL_ENV" -e "INPUT_JEKYLL_SRC" -e "INPUT_JEKYLL_BUILD_OPTIONS" -e "INPUT_GEM_SRC" -e "INPUT_TARGET_BRANCH" -e "INPUT_TARGET_PATH" -e "INPUT_BUILD_ONLY" -e "INPUT_BUILD_DIR" -e "INPUT_KEEP_HISTORY" -e "INPUT_PRE_BUILD_COMMANDS" -e "INPUT_BUNDLER_VERSION" -e "INPUT_COMMIT_AUTHOR" -e "HOME" -e "GITHUB_JOB" -e "GITHUB_REF" -e "GITHUB_SHA" -e "GITHUB_REPOSITORY" -e "GITHUB_REPOSITORY_OWNER" -e "GITHUB_REPOSITORY_OWNER_ID" -e "GITHUB_RUN_ID" -e "GITHUB_RUN_NUMBER" -e "GITHUB_RETENTION_DAYS" -e "GITHUB_RUN_ATTEMPT" -e "GITHUB_REPOSITORY_ID" -e "GITHUB_ACTOR_ID" -e "GITHUB_ACTOR" -e "GITHUB_TRIGGERING_ACTOR" -e "GITHUB_WORKFLOW" -e "GITHUB_HEAD_REF" -e "GITHUB_BASE_REF" -e "GITHUB_EVENT_NAME" -e "GITHUB_SERVER_URL" -e "GITHUB_API_URL" -e "GITHUB_GRAPHQL_URL" -e "GITHUB_REF_NAME" -e "GITHUB_REF_PROTECTED" -e "GITHUB_REF_TYPE" -e "GITHUB_WORKFLOW_REF" -e "GITH
+Starting the Jekyll Action
+Remote branch is main
+Resolving bundler version from Gemfile.lock
+ERROR:  Error installing bundler:
+	There are no versions of bundler (= 2.5.19) compatible with your Ruby & RubyGems
+	bundler requires Ruby version >= 3.0.0. The current ruby version is 2.7.8.225.
