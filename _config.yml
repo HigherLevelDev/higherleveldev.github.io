@@ -34,12 +34,33 @@ theme: jekyll-theme-prologue
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-timeago
 
 # GitHub Pages settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
 
 # Prologue theme settings
 collections: [sections]
+
+# Jekyll-timeago settings
+jekyll_timeago:
+  depth: 2
+  today: 'today'
+  yesterday: 'yesterday'
+  tomorrow: 'tomorrow'
+  and: 'and'
+  suffix: 'ago'
+  prefix: ''
+  suffix_future: ''
+  prefix_future: 'in'
+  years: 'years'
+  year: 'year'
+  months: 'months'
+  month: 'month'
+  weeks: 'weeks'
+  week: 'week'
+  days: 'days'
+  day: 'day'
 
 # The following settings are NECESSARY for the Prologue theme to function properly.
 # Please add this part to your _config.yml file.
