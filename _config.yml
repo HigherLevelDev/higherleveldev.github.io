@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Higher Level Dev Guide
-email: info@higherlevel.dev
+title: HigherLevel.dev
+email: adam@higherleveldev.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Higher Level Dev Guide documents how to direct AI software engineering
   agents to build software much more rapidly. Learn how to leverage AI for
