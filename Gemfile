@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # If you want to use GitHub Pages, uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-prologue"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

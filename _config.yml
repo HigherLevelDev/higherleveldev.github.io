@@ -30,13 +30,13 @@ twitter_username: higherleveldev
 github_username:  higherleveldev
 
 # Build settings
-theme: minima
+theme: jekyll-theme-prologue
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 # GitHub Pages settings
-remote_theme: jekyll/minima
+remote_theme: chrisbobbe/jekyll-theme-prologue
 
 # Exclude from processing.
 # The following items will not be processed, by default.

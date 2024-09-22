@@ -1,0 +1,3 @@
+update the theme using these instructions: 
+
+Install the jekyll-theme-prologue gem. Instructions are in the Jekyll docs. After running bundle install, you can find the theme files by running open $(bundle show jekyll-theme-prologue). A sample working _config.yml file ships with the gem; if you want to activate it, move it to your project's root directory. It will do nothing until you move it there, replacing the default _config.yml file.
