@@ -1,9 +1,20 @@
 demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](https://github.com/ipfs/ipfs#quick-summary)!
 
-# Jekyll theme: Adam Blog 2.0
-by [Armando Maynez](https://github.com/amaynez) based on [V1.0](https://github.com/artemsheludko/adam-blog) by [Artem Sheludko](https://github.com/artemsheludko). 
+# HigherLevel.dev Website
 
-Adam Blog 2.0 is a Jekyll theme that was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
+Welcome to the repository for HigherLevel.dev, a blog about using AI software agents to develop at a higher level in English (or other native human languages).
+
+This website is built using Jekyll and is hosted on GitHub Pages. It's based on the Adam Blog 2.0 theme by [Armando Maynez](https://github.com/amaynez), which in turn is based on [V1.0](https://github.com/artemsheludko/adam-blog) by [Artem Sheludko](https://github.com/artemsheludko).
+
+## About HigherLevel.dev
+
+HigherLevel.dev is dedicated to exploring and sharing insights about:
+
+1. Using AI software agents for development
+2. Programming at a higher level using natural language
+3. The future of software development with AI assistance
+
+Our goal is to provide valuable content for developers, AI enthusiasts, and anyone interested in the intersection of artificial intelligence and software development.
 
 ### What is Jekyll?
 

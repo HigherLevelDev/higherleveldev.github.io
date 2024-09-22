@@ -1,12 +1,12 @@
 # Site settings
-title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+title: HigherLevel.dev
+description: 'Using AI software agents to develop at a higher level in natural language.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+url: "https://higherlevel.dev" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/img/branding/HL01.svg"
+logo-icon: "/assets/img/branding/hl-robot-blue.svg"
+logo-icon-SEO: "/assets/img/branding/hl-robot-blue.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -18,25 +18,24 @@ logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG f
 # visit (session). Only the dark mode setting is "manual",
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
-night_mode: "auto"
+night_mode: "manual"
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+logo-dark: "/assets/img/branding/HigherLevel-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
-author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+author: Higher Level Software Ltd # add your name
+author-pic: adam-small.png
+about-author: We provide a custom agentic AI toolkit, coaching & bespoke consultancy services to supercharge your software development processes & deliver more value in less time so you can more than meet your targets.
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
+email: adam@higherleveldev.com # Add your Email address
 phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
-stackoverflow: stackoverflow # Add your stackoverflow account
+website: https://higherleveldev.com # Add your website
+linkedin: higherleveldev # Add your Linkedin handle
+github: higherleveldev # Add your Github handle
+#twitter: '@HigherLevelDev' # Add your Twitter handle
+#stackoverflow: higherleveldev # Add your stackoverflow account
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"

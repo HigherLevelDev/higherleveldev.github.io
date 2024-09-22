@@ -1,0 +1,1 @@
+What we currently have in the repo is a clone of someone else's Jekyll based website. We need to clean it up and configure it for being HigherLevel.dev website which is a blog about using AI software agents to develop at a higher level in English (or other native human language). Can you make the necessary updates please?
