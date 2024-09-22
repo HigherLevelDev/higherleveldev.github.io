@@ -1,0 +1,12 @@
+github actions build failed:
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
+                    end of file reached
+                    ------------------------------------------------
+      Jekyll 4.3.4   Please append `--trace` to the `build` command 
+                     for any additional information or backtrace. 
+                    ------------------------------------------------
+
+I guess maybe we need to add something into the styles?
