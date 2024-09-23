@@ -45,7 +45,7 @@ This task usually involves a lot of boilerplate code and might have taken at lea
 
 Claude can see the codebase layout and examine other modules in the system. It learns how entities are structured and replicates the same style and tooling.
 
-I’ve been using this methodology over the past (checks notes…) 2 weeks to build a new production-ready version of my toolkit.. this time the tech stack is a NestJS/Node server and a Vue3 web UI.
+I’ve been using this methodology over the past (checks notes…) 2 weeks (!?!) to build a new production-ready version of my toolkit.. this time the tech stack is a NestJS/Node server and a Vue3 web UI.
 
 Here's a video of the new tool implementing the above mini-spec in a Java Spring Boot git repo:
 
