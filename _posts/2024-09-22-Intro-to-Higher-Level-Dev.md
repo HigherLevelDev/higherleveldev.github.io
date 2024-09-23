@@ -8,13 +8,14 @@ img: posts/20240922/dall-e-headline-future.png
 tags: [ai augmented dev, software engineering, higher level dev]
 category: opinion
 author: Adam
-description: "As AI increasingly generates creative works, we explore the copyright implications and how this relates to higher-level development using AI software agents."
+description: "It's become possible to develop software primarily through natural language by working in tandem with an LLM-powered Software Engineering Agent."
 ---
 Software development changed forever on Friday, June 21st, 2024. 
 
 Just a few days later, on Monday the 24th, I was made redundant from the fintech payments company where I had been working for over six years, as it shut down. In hindsight, I believe this turn of events was quite serendipitous.
 
-I had already been experimenting with ChatGPT and other large language models (LLMs), trying to leverage them to become a more productive backend engineer. But when Anthropic released Claude Sonnet 3.5, we finally had an LLM capable of writing decent, reliable code that was mostly bug-free. 
+I had already been experimenting with ChatGPT and other large language models (LLMs), trying to leverage them to become a more productive backend engineer. 
+But when Anthropic released Claude Sonnet 3.5, we finally had an LLM capable of writing decent, reliable code that was mostly bug-free. 
 
 This changed everything.
 
@@ -23,10 +24,19 @@ I started by dabbling in Python and learning about frameworks like LangChain and
 
 By pasting existing code into Claude and asking it to build the next part, then incorporating that back into my IDE, I managed to build a Python-based server running some agents and a rudimentary web app to interact with them.
 
-One of the agents I developed was called the System Improver Bot. It functioned by providing it the root folder of a code repository (I simply pointed it to itself) and sending the tree of source file names to Claude along with instructions on what to do next. By equipping Claude with a read_file tool, it could decide which files it needed to read to understand the codebase before generating new code. By parsing the responses, I could automatically save the generated code back to the file system. I no longer needed the Claude UI at all, and my productivity skyrocketed.
+One of the agents I developed was called the System Improver Bot. It functioned by providing it the root folder of a code 
+repository (I simply pointed it to itself) and sending the tree of source file names to Claude along with instructions on what 
+to do next. 
 
-It didn't matter that I didn't really know Python or that I was a complete novice at web development. I'm now developing in English, and it's a lot of fun.
-This is a new paradigm of development: you develop one small specification at a time.
+By equipping Claude with a read_file tool, it could decide which files it needed to read to understand the codebase before generating new code. By parsing the responses, I could automatically save the generated code back to the file system. 
+
+I no longer needed the Claude UI at all, and my productivity skyrocketed. It didn't matter that I didn't really know Python or that I was a complete novice at web development. 
+
+<b>I'm now developing in English - this is Higher Level Development.</b>
+
+After 25 years of building backend systems in the Java ecosystem, I've finally become a 10x Engineer. And it's a lot of fun. And any other developer can do the same with access to the right tools and a few days to get up to speed on how to direct the agent.
+
+It's a new paradigm: you develop one small specification at a time.
 For example:
 
 <b>"Add a new person module to the system. The Person entity needs properties: id (UUID), title, firstName, lastName, dob (string), createdAt (timestamp). Add the appropriate repository with the usual methods, the service and controller, and all the necessary DTOs and unit tests. Also, add a Flyway migration for the new person table."</b>
@@ -35,7 +45,7 @@ This task usually involves a lot of boilerplate code and might have taken at lea
 
 Claude can see the codebase layout and examine other modules in the system. It learns how entities are structured and replicates the same style and tooling.
 
-I’ve been using this methodology over the past (checks notes…) 2 weeks to build a new production-ready version of my toolkit.. this time the tech stack is a NestJS/Node server runtime and a Vue3 web UI.
+I’ve been using this methodology over the past (checks notes…) 2 weeks to build a new production-ready version of my toolkit.. this time the tech stack is a NestJS/Node server and a Vue3 web UI.
 
 Here's a video of the new tool implementing the above mini-spec in a Java Spring Boot git repo:
 

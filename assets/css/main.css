@@ -594,7 +594,7 @@ svg {
   color: var(--accent-dark);
 }
 .main-header .logo img {
-  max-width: 150px;
+  max-width: 250px;
   height: auto;
 }
 .main-nav {

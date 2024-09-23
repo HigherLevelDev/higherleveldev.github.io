@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Higher Level Software Ltd # add your name
 author-pic: adam-small.png
-about-author: We provide a custom agentic AI toolkit, coaching & bespoke consultancy services to supercharge your software development processes & deliver more value in less time so you can more than meet your targets.
+about-author: We provide a custom agentic AI toolkit, coaching & bespoke consultancy services to supercharge your software development processes & deliver more value in less time so you can more than meet your targets. Drop by higherleveldev.com for more info.
 
 # Contact links
 email: adam@higherleveldev.com # Add your Email address
@@ -38,11 +38,11 @@ github: higherleveldev # Add your Github handle
 #stackoverflow: higherleveldev # Add your stackoverflow account
 
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+#mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
 # Tracker
 analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+#fbadmin: ar.maybach
 
 # Paginate
 paginate: 6
@@ -53,15 +53,15 @@ extensions:
   mermaid_enable: true
 
 # Comments
-comments: utteranc  #[disqus, utteranc]
-comments_opts:
-  comments_curtain: yes # leave empty to show the disqus embed directly
-  repo: # The GitHub repo URL.  https://utteranc.es/
-  issue_term: # The GitHub issue label
-  label: # The GitHub comments label
-  theme: # The GitHub comment's there. e.g. github-dark
-  # Disqus
-  discus_identifier: # Add your discus identifier
+#comments: utteranc  #[disqus, utteranc]
+#comments_opts:
+#  comments_curtain: yes # leave empty to show the disqus embed directly
+#  repo: # The GitHub repo URL.  https://utteranc.es/
+#  issue_term: # The GitHub issue label
+#  label: # The GitHub comments label
+#  theme: # The GitHub comment's there. e.g. github-dark
+#  # Disqus
+#  discus_identifier: # Add your discus identifier
 
 # Build settings
 markdown: kramdown
