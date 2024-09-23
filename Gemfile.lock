@@ -10,17 +10,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.17.0)
-    ffi (1.17.0-aarch64-linux-gnu)
-    ffi (1.17.0-aarch64-linux-musl)
-    ffi (1.17.0-arm-linux-gnu)
-    ffi (1.17.0-arm-linux-musl)
-    ffi (1.17.0-arm64-darwin)
-    ffi (1.17.0-x86-linux-gnu)
-    ffi (1.17.0-x86-linux-musl)
-    ffi (1.17.0-x86_64-darwin)
-    ffi (1.17.0-x86_64-linux-gnu)
-    ffi (1.17.0-x86_64-linux-musl)
+    ffi (1.15.5)
     forwardable-extended (2.6.0)
     google-protobuf (4.28.2)
       bigdecimal
@@ -167,6 +157,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  ffi (~> 1.15.5)
   jekyll (~> 4.3.4)
   jekyll-feed
   jekyll-paginate

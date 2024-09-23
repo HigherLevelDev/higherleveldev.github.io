@@ -1,0 +1,8 @@
+/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle config --local path /home/runner/work/higherleveldev.github.io/higherleveldev.github.io/vendor/bundle
+/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle config --local deployment true
+Cache key: setup-ruby-bundler-cache-v6-ubuntu-22.04-x64-ruby-3.1.2-wd-/home/runner/work/higherleveldev.github.io/higherleveldev.github.io-with--without--only--Gemfile.lock-1d29b9418a08686c8fd58e329f23022714d087e11d14f81fa253d2b19cf27a2e
+/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle install --jobs 4
+Fetching gem metadata from https://rubygems.org/...........
+ffi-1.17.0-x86_64-linux requires rubygems version >= 3.3.22, which is
+incompatible with the current version, 3.3.7
+Error: The process '/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle' failed with exit code 5
