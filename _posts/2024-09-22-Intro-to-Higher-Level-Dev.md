@@ -18,7 +18,7 @@ I had already been experimenting with ChatGPT and other large language models (L
 
 This changed everything.
 
-Given six weeks of gardening leave—paid time off before employment officially ends—I decided to immerse myself in this new world instead of searching for another job. 
+Given six weeks of gardening leave, I decided to immerse myself in this new world instead of searching for another job. 
 I started by dabbling in Python and learning about frameworks like LangChain and LangGraph. 
 
 By pasting existing code into Claude and asking it to build the next part, then incorporating that back into my IDE, I managed to build a Python-based server running some agents and a rudimentary web app to interact with them.

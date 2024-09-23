@@ -1,0 +1,16 @@
+github actions failed with:
+
+Run ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa
+Modifying PATH
+Downloading Ruby
+Extracting  Ruby
+Print Ruby version
+Installing Bundler
+bundle install
+Error: Error: The process '/opt/hostedtoolcache/Ruby/3.0.4/x64/bin/bundle' failed with exit code 16
+    at ExecState._setResult (/home/runner/work/_actions/ruby/setup-ruby/0a29871fe2b0200a17a4497bae54fe5df0d973aa/dist/index.js:6023:25)
+    at ExecState.CheckComplete (/home/runner/work/_actions/ruby/setup-ruby/0a29871fe2b0200a17a4497bae54fe5df0d973aa/dist/index.js:6006:18)
+    at ChildProcess.<anonymous> (/home/runner/work/_actions/ruby/setup-ruby/0a29871fe2b0200a17a4497bae54fe5df0d973aa/dist/index.js:5900:27)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
