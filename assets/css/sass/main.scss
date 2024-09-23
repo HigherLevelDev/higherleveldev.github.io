@@ -1,5 +1,6 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap');
 @import "variables";
 @import "syntax";
 @import "tools/normalize";
@@ -20,7 +21,7 @@ html {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Rubik', sans-serif;
   color: $dark-gray;
   margin: 0;
   background-color: $white;
@@ -30,9 +31,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Rubik', sans-serif;
   color: $dark-purple;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 img {
