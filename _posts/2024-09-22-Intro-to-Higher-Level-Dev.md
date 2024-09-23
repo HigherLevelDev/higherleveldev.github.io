@@ -47,7 +47,7 @@ Generating new code like this is fairly straightforward, but Claude Sonnet 3.5 a
 
 The Higher Level Dev Kit I've developed will automatically commit each set of changes to Git with a suitable commit message. If you're not satisfied with the changes, a simple "undo" is enough to revert them.
 
-This is how I do all my development now. There's no going back or putting the genie back in the bottle. 
+This is how I do all my development now. There's no going back or putting the genie back in the bottle.
 
 <b>This is the way.</b>
 
