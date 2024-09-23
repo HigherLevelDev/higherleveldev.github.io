@@ -63,7 +63,7 @@ This is how I do all my development now. There's no going back or putting the ge
 
 As a result, I'm starting my own boutique consultancy, helping companies to radically improve their developer productivity by adopting this same workflow.
 
-My goal is to build a sustainable, one-man, business, fostering long-term relationships with a small set of software teams, so they can leverage the Higher Level Dev Kit to supercharge their development in a totally affordable way.
+My goal is to build a sustainable business, fostering long-term relationships with a small set of software teams, so they can leverage the Higher Level Dev Kit to supercharge their development in a totally affordable way.
 
 Together, we can improve the toolkit, incorporate the latest and greatest LLM models (O1 anyone?), and be at the forefront of AI-augmented development.
 
