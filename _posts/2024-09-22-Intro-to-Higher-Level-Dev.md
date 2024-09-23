@@ -69,3 +69,4 @@ Together, we can improve the toolkit, incorporate the latest and greatest LLM mo
 
 For further information, stop by <a href="https://higherleveldev.com" target="_blank">HigherLevelDev.com</a>, and let's find a time to talk.
 
+p.s Taking bookings for October 2024 engagements now. Slots limited so get in early.
