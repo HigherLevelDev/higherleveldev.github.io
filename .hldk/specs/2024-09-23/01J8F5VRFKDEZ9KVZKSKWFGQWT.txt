@@ -1,0 +1,9 @@
+> bundle install
+/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle config --local path /home/runner/work/higherleveldev.github.io/higherleveldev.github.io/vendor/bundle
+/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle config --local deployment true
+Cache key: setup-ruby-bundler-cache-v6-ubuntu-22.04-x64-ruby-3.1.2-wd-/home/runner/work/higherleveldev.github.io/higherleveldev.github.io-with--without--only--Gemfile.lock-db9a1bdbdc342df47b23c90496d9f2ce493d03e30700c17dc2ac880b8e503054
+/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle install --jobs 4
+Fetching gem metadata from https://rubygems.org/...........
+sass-embedded-1.58.3-x86_64-linux requires rubygems version >= 3.3.22, which is
+incompatible with the current version, 3.3.7
+Error: The process '/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle' failed with exit code 5
