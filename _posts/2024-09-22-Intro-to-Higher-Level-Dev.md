@@ -62,7 +62,7 @@ Here's a video of the new tool implementing the above mini-spec in a Java Spring
     src="https://higherleveldev.s3.eu-west-1.amazonaws.com/HLDKAddPersonModule-opt.mp4" 
     title="Video player" 
     frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     referrerpolicy="strict-origin-when-cross-origin" 
     allowfullscreen>
   </iframe>
