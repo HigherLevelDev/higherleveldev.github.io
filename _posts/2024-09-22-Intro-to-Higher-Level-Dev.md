@@ -82,7 +82,7 @@ This is how I do all my development now. There's no going back or putting the ge
 
 <b>This is the way.</b>
 
-Based on what I've learned and the excellent results I've been seeing so far using this approach, I'm starting my own boutique consultancy, offering to help companies to radically improve their developer productivity by adopting this same toolkit and workflow.
+Based on what I've learned and the excellent results I've been seeing so far using this approach, I'm starting my own boutique consultancy, offering to help companies radically improve their developer productivity by adopting this same toolkit and workflow.
 
 My goal is to build a sustainable business, fostering long-term relationships with a small set of software teams, so they can leverage the Higher Level Dev Kit to supercharge their development in a totally affordable way.
 
