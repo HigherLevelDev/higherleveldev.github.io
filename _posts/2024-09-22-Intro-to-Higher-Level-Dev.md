@@ -68,7 +68,7 @@ Here's a video of the new tool implementing the above mini-spec in a Java Spring
   </iframe>
 </div>
 
-At the end, it also runs the tests—including the newly created unit tests—and verifies that everything is working. If it wasn’t working then it would iterate fix -> test -> fix test until everything was working correctly.
+At the end, it also runs the tests—including the newly created unit tests—and verifies that everything is working. If it wasn’t working then it would iterate fix -> test -> fix --> test until everything was working correctly.
 
 <img src="{{ site.url }}/assets/img/posts/20240922/tests-passed.png" alt="All tests passed">
 
