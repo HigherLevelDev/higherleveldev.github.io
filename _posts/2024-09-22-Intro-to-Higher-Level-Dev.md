@@ -79,5 +79,3 @@ My goal is to build a sustainable business, fostering long-term relationships wi
 Together, we can improve the toolkit, incorporate the latest and greatest LLM models (o1 anyone?), and be at the forefront of AI-augmented development.
 
 <a href="https://www.higherleveldev.com/dyp-offer?utm_source=blog&utm_medium=linkedin&utm_campaign=intro-to-hld" target="_blank">Early Bird Offer till end of October: Book your free consultation now!</a>
-
-<div style="padding:65.22% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1012344120?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="HLDKAddPersonModule-opt"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
