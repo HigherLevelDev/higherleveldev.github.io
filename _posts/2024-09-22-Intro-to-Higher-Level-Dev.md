@@ -56,7 +56,7 @@ I’ve been using this methodology over the past (checks notes…) 2 weeks (!?!)
 
 Here's a video of the new tool implementing the above mini-spec in a Java Spring Boot git repo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wckhd-vIaw4?si=udK7EkIuZZLmjKSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="740" height="420" src="https://higherleveldev.s3.eu-west-1.amazonaws.com/HLDKAddPersonModule-opt.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 At the end, it also runs the tests—including the newly created unit tests—and verifies that everything is working. If it wasn’t working then it would iterate fix -> test -> fix test until everything was working correctly.
 
