@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "Intro to Higher Level Dev: Revolutionizing Software Development with AI"
+title: "Intro to Higher Level Development"
 date: 2024-09-22
 img: posts/20240922/dall-e-headline-future.png
 tags: [ai augmented dev, software engineering, higher level dev, LLM, productivity, coding]
