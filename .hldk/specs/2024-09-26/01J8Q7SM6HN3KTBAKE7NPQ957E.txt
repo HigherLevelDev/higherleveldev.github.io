@@ -1,0 +1,1 @@
+in the web ui... when creating a new workspace, only set the default workspace if no default is already set.

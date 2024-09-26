@@ -1,6 +1,26 @@
 $(function () {
   'use strict';
 
+  // Function to handle new workspace creation
+  function createNewWorkspace(workspaceName) {
+    // Check if a default workspace is already set
+    var defaultWorkspace = localStorage.getItem('defaultWorkspace');
+    
+    // Create the new workspace (implement your creation logic here)
+    // ...
+
+    // If no default workspace is set, set this new one as default
+    if (!defaultWorkspace) {
+      localStorage.setItem('defaultWorkspace', workspaceName);
+    }
+  }
+
+  // Example usage (you'll need to integrate this with your UI)
+  // $('#createWorkspaceButton').click(function() {
+  //   var newWorkspaceName = $('#workspaceNameInput').val();
+  //   createNewWorkspace(newWorkspaceName);
+  // });
+
   /* -------- Scroll to top button ------- */
   $(".top").click(function() {
     $("html, body")
