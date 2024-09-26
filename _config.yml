@@ -1,6 +1,7 @@
 # Site settings
 title: HigherLevel.dev
-description: 'Using AI software agents to develop at a higher level in natural language.' # this means to ignore newlines until "baseurl:"
+description: 'HigherLevel.dev: Revolutionizing software development with AI-powered agents. Learn how to code more efficiently using natural language.'
+meta_description: 'Discover AI-augmented software development techniques at HigherLevel.dev. Boost productivity and code quality with our innovative approach.'
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://higherlevel.dev" # the base hostname & protocol for your site, e.g. http://example.com
@@ -89,3 +90,18 @@ plugins:
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+
+# Social media metadata
+social:
+  name: HigherLevel.dev
+  links:
+    - https://www.linkedin.com/company/higherleveldev
+    - https://github.com/higherleveldev
+
+# Open Graph / Facebook
+og_image: "/assets/img/branding/hl-robot-blue.png"
+
+# Twitter
+twitter:
+  username: "@HigherLevelDev"
+  card: summary_large_image

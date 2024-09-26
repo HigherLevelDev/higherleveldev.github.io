@@ -2,13 +2,14 @@
 layout: post
 read_time: true
 show_date: true
-title: "Intro to Higher Level Dev"
+title: "Intro to Higher Level Dev: Revolutionizing Software Development with AI"
 date: 2024-09-22
 img: posts/20240922/dall-e-headline-future.png
-tags: [ai augmented dev, software engineering, higher level dev]
-category: opinion
+tags: [ai augmented dev, software engineering, higher level dev, LLM, productivity, coding]
+category: technology
 author: Adam
-description: "It's become possible to develop software primarily through natural language by working in tandem with an LLM-powered Software Engineering Agent."
+description: "Discover how AI-powered Software Engineering Agents are transforming software development, allowing developers to code primarily through natural language."
+excerpt: "Learn how AI-augmented development is changing the landscape of software engineering, making it possible to develop at a higher level using natural language instructions."
 ---
 When Anthropic released Claude Sonnet 3.5 on Friday, June 21st, 2024, software development changed forever.
 
