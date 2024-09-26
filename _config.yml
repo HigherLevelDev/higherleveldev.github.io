@@ -35,7 +35,7 @@ phone: # Add your Phone number
 website: https://higherleveldev.com # Add your website
 linkedin: higherleveldev # Add your Linkedin handle
 github: higherleveldev # Add your Github handle
-#twitter: '@HigherLevelDev' # Add your Twitter handle
+twitter: '@TiGz_UK' # Add your Twitter handle
 #stackoverflow: higherleveldev # Add your stackoverflow account
 
 # Newsletter
@@ -100,8 +100,3 @@ social:
 
 # Open Graph / Facebook
 og_image: "/assets/img/branding/hl-robot-blue.png"
-
-# Twitter
-twitter:
-  username: "@HigherLevelDev"
-  card: summary_large_image

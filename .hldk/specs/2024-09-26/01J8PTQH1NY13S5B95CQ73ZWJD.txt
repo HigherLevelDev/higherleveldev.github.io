@@ -1,0 +1,3 @@
+fetch the newsletter.html and refactor to work for substack instead. Here is the embeddable code that substack gave me for my newsletter:
+
+<iframe src="https://higherleveldev.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
