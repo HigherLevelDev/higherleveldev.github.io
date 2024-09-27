@@ -23,7 +23,17 @@ Building on that, I wanted to differentiate between changes made to production c
 
 ## The Git Update That Surprised Me
 
-I instructed Claude to implement this feature, and here's the result—the contents of the generated JSON file:
+I instructed Claude to implement this feature with the following mini-spec:
+
+{% highlight markdown %}
+update mutation entity to add testLinesChanged similar to linesChanged but 
+is only populated if the filePath contains the string "test" (any case) 
+otherwise it's set to 0. Update the service and repo as necessary to set 
+testLinesChanged and also add methods for getTestLinesChangedForSession|Request. 
+Also add the flyway migration.
+{% endhighlight %}
+
+ And here's the result—the contents of the generated JSON file that was included in the commit:
 
 {% highlight javascript %}
 {
@@ -43,7 +53,7 @@ I instructed Claude to implement this feature, and here's the result—the conte
 
 ## Beyond Expectations
 
-What surprised me was that Claude not only implemented the feature flawlessly in just over 1 minute at a cost of £0.27 but also added an update line to the Flyway migration script to backfill the `testLinesChanged` data in the existing database—a step I hadn't even considered.
+What surprised me was that Claude not only implemented the feature flawlessly, changing 71 lines of code in just over 1 minute at a cost of 27p, but also added an update line to the Flyway migration script to backfill the `testLinesChanged` data in the existing database—a step I hadn't even considered.
 
 Here's the relevant part of the Flyway migration:
 
