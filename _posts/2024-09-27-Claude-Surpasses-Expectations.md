@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "When AI Surpasses Expectations"
 date: 2024-09-27
-img: posts/20240927/test-lines-changed.png
+img: posts/20240927/android1.jpg
 tags: [ai augmented dev, software engineering, higher level dev, LLM, productivity, coding]
 category: technology
 author: Adam
@@ -55,7 +55,7 @@ UPDATE mutations SET testLinesChanged = linesChanged WHERE LOWER(filePath) LIKE 
 CREATE INDEX idx_mutations_test_lines_changed ON mutations (testLinesChanged);
 {% endhighlight %}
 
-By adding this script, Claude ensured that all historical data was consistent with the new feature, allowing for accurate analytics from the moment of implementation.
+By adding this extra line, Claude ensured that all historical data was consistent with the new feature, allowing for accurate analytics from the moment of implementation.
 
 ## The Power of AI-Augmented Development
 
