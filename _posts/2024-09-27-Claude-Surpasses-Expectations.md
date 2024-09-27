@@ -53,7 +53,7 @@ Also add the flyway migration.
 
 ## Beyond Expectations
 
-What surprised me was that Claude not only implemented the feature flawlessly, changing 71 lines of code in just over 1 minute at a cost of 27p, but also added an update line to the Flyway migration script to backfill the `testLinesChanged` data in the existing database—a step I hadn't even considered.
+What surprised me was that Claude not only implemented the feature flawlessly, adding 71 lines of code in just over 1 minute at a cost of 27p, but also added an update line to the Flyway migration script to backfill the `testLinesChanged` data in the existing database—a step I hadn't even considered.
 
 Here's the relevant part of the Flyway migration:
 
