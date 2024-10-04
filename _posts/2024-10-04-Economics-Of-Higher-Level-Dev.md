@@ -32,7 +32,7 @@ We are entering this era now. These agents are available today and can deliver s
 
 ### Estimating the Cost of Code
 
-To put this into context, I asked Open AI’s new o1-preview model to estimate the cost of each line of code written by a senior engineer earning £80,000 per year. The estimate came out to roughly £2.40 per line of code, based on an average of 50 lines of code per hour and four hours of coding per day.
+To put this into context, I asked Open AI’s new o1-preview model to estimate the cost of each line of code written by a senior engineer earning £80,000 per year. The estimate came out to roughly £2.40 per line of code, based on an average of 50 lines of code per hour and four hours of coding per day (* see Appendix below).
 
 Over the past week, while figuring out how to market my new consultancy business, I’ve also used my dev kit to enhance itself. Here's a screenshot of the new dashboard, showing this week’s work:
 
@@ -60,7 +60,9 @@ I’ll leave you with some insightful words from Simon Willison, co-creator of D
 
 ---
 
-### Appendix: Calculating the Cost per Line of Code (LOC)
+### *Appendix: Calculating the Cost per Line of Code (LOC)
+
+Obviously, this is a very rough estimate - and should be taken with a large pinch of salt.
 
 For a UK-based Senior Back-End Engineer earning £80,000 annually, let’s recalculate the cost of producing each line of code, factoring in total costs to the employer.
 
