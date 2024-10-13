@@ -1,0 +1,24 @@
+{
+  "spec": "update the header to include the /admin web app as a link in the nav menu above About called \"Login\"",
+  "commitMessage": "Add Login link to header for admin web app",
+  "stats": {
+    "inputTokens": 13086,
+    "cacheWriteTokens": 7123,
+    "cacheReadTokens": 14246,
+    "outputTokens": 3587,
+    "totalTokens": null,
+    "cost": 0.0930360375,
+    "currency": "gbp",
+    "processingMillis": 67516,
+    "git": {
+      "filesChanged": 5,
+      "insertions": 487,
+      "deletions": 0,
+      "linesChanged": 487,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
