@@ -1,0 +1,24 @@
+{
+  "spec": "can't see the text of the link - maybe it is white on white? try changing text colour to black",
+  "commitMessage": "Update Dev Kit link styles for better visibility",
+  "stats": {
+    "inputTokens": 38351,
+    "cacheWriteTokens": 0,
+    "cacheReadTokens": 14240,
+    "outputTokens": 540,
+    "totalTokens": null,
+    "cost": 0.09556875000000001,
+    "currency": "gbp",
+    "processingMillis": 21093,
+    "git": {
+      "filesChanged": 1,
+      "insertions": 5,
+      "deletions": 4,
+      "linesChanged": 5,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
