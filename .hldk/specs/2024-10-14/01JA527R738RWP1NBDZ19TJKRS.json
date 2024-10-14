@@ -1,0 +1,24 @@
+{
+  "spec": "in the header... change the dev kit link so the text is not underlined and the \"Dev Kit\" words don't stack on top of each other - all words should appear on the same horizontal line",
+  "commitMessage": "Update Dev Kit link styling in header",
+  "stats": {
+    "inputTokens": 48550,
+    "cacheWriteTokens": 7130,
+    "cacheReadTokens": 21390,
+    "outputTokens": 1107,
+    "totalTokens": null,
+    "cost": 0.146557125,
+    "currency": "gbp",
+    "processingMillis": 41256,
+    "git": {
+      "filesChanged": 1,
+      "insertions": 12,
+      "deletions": 16,
+      "linesChanged": 16,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
