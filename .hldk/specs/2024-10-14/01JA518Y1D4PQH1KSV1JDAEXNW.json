@@ -1,0 +1,24 @@
+{
+  "spec": "also add another link to the \"Dev Kit\" in outside the menu - but just before the Search icon and align it on the right of the header",
+  "commitMessage": "Add Dev Kit link to header outside menu",
+  "stats": {
+    "inputTokens": 49067,
+    "cacheWriteTokens": 7120,
+    "cacheReadTokens": 14240,
+    "outputTokens": 945,
+    "totalTokens": null,
+    "cost": 0.144261,
+    "currency": "gbp",
+    "processingMillis": 34719,
+    "git": {
+      "filesChanged": 2,
+      "insertions": 39,
+      "deletions": 13,
+      "linesChanged": 39,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
