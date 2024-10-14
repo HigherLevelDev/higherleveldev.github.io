@@ -1,0 +1,24 @@
+{
+  "spec": "remove the devkit container and instead put the dev kit link inside the search container",
+  "commitMessage": "Move Dev Kit link inside search container in header",
+  "stats": {
+    "inputTokens": 69474,
+    "cacheWriteTokens": 0,
+    "cacheReadTokens": 21360,
+    "outputTokens": 1144,
+    "totalTokens": null,
+    "cost": 0.1739925,
+    "currency": "gbp",
+    "processingMillis": 36945,
+    "git": {
+      "filesChanged": 1,
+      "insertions": 6,
+      "deletions": 7,
+      "linesChanged": 7,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
